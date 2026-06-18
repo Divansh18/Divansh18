@@ -16,14 +16,16 @@ features across frontend and backend.
 
 🛠️ Stack
 
-Frontend   · Next.js · React · TypeScript · Tailwind
-Backend    · NestJS · Node.js · REST APIs
-Database   · MySQL · MongoDB
-AI         · Claude API · OpenAI API · LLM Workflows
-Tools      · Git · Docker · Vercel · Railway · Playwright
+| | |
+|---|---|
+| **Frontend** | Next.js · React · TypeScript · Tailwind |
+| **Backend** | NestJS · Node.js · REST APIs |
+| **Database** | MySQL · MongoDB |
+| **AI** | Claude API · OpenAI API · LLM Workflows |
+| **Tools** | Git · Docker · Vercel · Railway · Playwright |
 
 ---
 
-📫 divanshgandhi.ca@gmail.com
-💼 linkedin.com/in/divansh-gandhi
+📫 divanshgandhi.ca@gmail.com<br>
+💼 linkedin.com/in/divansh-gandhi<br>
 🌐 https://www.grepai.dev/
