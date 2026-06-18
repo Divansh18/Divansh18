@@ -1,55 +1,29 @@
-# Hi, I’m Divansh Gandhi 👋  
-## 💻 Full Stack Engineer
+### Hey, I'm Divansh 👋
 
-### Full Stack Engineer with hands-on experience building, testing, and supporting production web applications.  
-### Previously worked as a **Full Stack Engineer Intern at Nebxus**, contributing across frontend and backend development, testing, and production releases.
+Full-stack developer who likes building real things and shipping them.
 
-### I enjoy writing clean code, understanding how real systems work, and continuously improving my full-stack engineering skills.
+I work with Next.js, TypeScript, NestJS, and MySQL — and have been integrating
+LLMs and AI workflows into production systems.
 
+Building GrepAI — an AI-powered tool that integrates with GitHub, analyzes every
+pull request the moment it's opened, and posts a structured risk report as a PR
+comment before anyone starts reviewing. → grepai.dev
 
-## 🚀 Experience
-
-**Full Stack Engineer Intern — Nebxus**  
-• Contributed to frontend development using **TypeScript** and **Next.js**  
-• Built and integrated backend APIs using **NestJS**  
-• Worked with **MySQL** databases and **MySQL Workbench**  
-• Tested APIs using **Postman**  
-• Wrote **unit tests with Jest** and performed **end-to-end testing using Playwright**  
-• Fixed bugs and implemented feature enhancements  
-• Contributed code that was **reviewed and deployed to production**  
-• Collaborated with the team using **GitHub**
+Previously interned at Nebxus as a Software Engineer, shipping production
+features across frontend and backend.
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Stack
 
-**Frontend**  
-TypeScript · Next.js · HTML · CSS  
-
-**Backend**  
-NestJS · Node.js · REST APIs  
-
-**Database**  
-MySQL · MySQL Workbench  
-
-**Testing**  
-Jest · Playwright  
-
-**Tools**  
-Git · GitHub · Postman · VS Code  
+Frontend   · Next.js · React · TypeScript · Tailwind
+Backend    · NestJS · Node.js · REST APIs
+Database   · MySQL · MongoDB
+AI         · Claude API · OpenAI API · LLM Workflows
+Tools      · Git · Docker · Vercel · Railway · Playwright
 
 ---
 
-## 🌱 Currently
-
-• Exploring full-stack engineering concepts  
-• Improving backend design and testing practices  
-• Building and maintaining personal projects  
-
----
-
-## 📫 Let’s Connect
-
-📧 Email: **divanshgandhi.ca@gmail.com**  
-💼 LinkedIn: **www.linkedin.com/in/divansh-gandhi**  
-📍 Location: **Delhi, India**
+📫 divanshgandhi.ca@gmail.com
+💼 linkedin.com/in/divansh-gandhi
+🌐 https://www.grepai.dev/
