@@ -27,5 +27,5 @@ features across frontend and backend.
 ---
 
 📫 divanshgandhi.ca@gmail.com<br>
-💼 linkedin.com/in/divansh-gandhi<br>
+💼 https://www.linkedin.com/in/divansh-gandhi/<br>
 🌐 https://www.grepai.dev/
