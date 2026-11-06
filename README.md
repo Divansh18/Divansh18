@@ -25,12 +25,18 @@ I built **GrepAI** to help developers spot risky changes before they review a pu
 
 ## Stack
 
-| Area | Tools I use |
+## Tech stack
+
+| Area | What I use |
 |---|---|
-| AI & agents | Claude, OpenAI, MCP, LangChain, LangGraph, Pipecat, Deepgram |
-| Backend | Python, FastAPI, TypeScript, NestJS, Node.js, REST, WebSockets |
-| Frontend | Next.js, React, Tailwind CSS |
-| Data & retrieval | PostgreSQL, MySQL, MongoDB, Elasticsearch |
-| Deployment & testing | Docker, Kubernetes, Linux, Git, Playwright, Logfire |
+| **LLM apps & agents** | Claude API · OpenAI API · MCP · LangChain · LangGraph |
+| **RAG & search** | Document ingestion · Embeddings · Semantic search · Elasticsearch |
+| **Voice AI** | Pipecat · Deepgram · Cartesia |
+| **Languages** | Python · TypeScript · SQL |
+| **Backend & integrations** | FastAPI · NestJS · Node.js · REST APIs · WebSockets · Webhooks |
+| **Frontend** | Next.js · React · Tailwind CSS |
+| **Databases** | PostgreSQL · MySQL |
+| **Infrastructure & deployment** | Docker · Kubernetes · Linux · Nginx · Vercel · Railway |
+| **Testing & observability** | Playwright · Logfire |
 
 [LinkedIn](https://www.linkedin.com/in/divansh-gandhi/) · [Email](mailto:divanshgandhi.ca@gmail.com)
