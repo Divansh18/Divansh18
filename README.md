@@ -1,31 +1,36 @@
-### Hey, I'm Divansh 👋
+# Hey, I’m Divansh 👋
 
-Full-stack developer who likes building real things and shipping them.
+I’m an AI engineer and full-stack developer. I build tools I’d use myself and like taking them from an idea to something people can actually use.
 
-I work with Next.js, TypeScript, NestJS, and MySQL — and have been integrating
-LLMs and AI workflows into production systems.
+I work mostly with Python and FastAPI for agents and AI backends, and TypeScript, Next.js, and NestJS for full-stack products.
 
-Building GrepAI — an AI-powered tool that integrates with GitHub, analyzes every
-pull request the moment it's opened, and posts a structured risk report as a PR
-comment before anyone starts reviewing. → grepai.dev
+## The project I’m proudest of: GrepAI
 
-Previously interned at Nebxus as a Software Engineer, shipping production
-features across frontend and backend.
+I built **GrepAI** to help developers spot risky changes before they review a pull request. When a GitHub PR opens, GrepAI analyzes the diff with Claude and posts a structured risk report right on the PR. I built the whole flow, including GitHub OAuth, webhook verification, and the review pipeline.
 
----
+[Try GrepAI](https://www.grepai.dev/) · [GitHub](https://github.com/Divansh18/GrepAI)
 
-🛠️ Stack
+## Other things I’ve built
 
-| | |
+- **RehearseAI** ([GitHub](https://github.com/Divansh18/ReherseAI)) — A real-time voice interview agent built with Pipecat, Deepgram, and OpenAI. I worked on what happens when someone cuts it off mid-question and how it picks the interview back up.
+- **BridgeCart** ([GitHub](https://github.com/Divansh18/bridgecart)) — A Kubernetes-based MCP gateway that lets AI agents look up orders and update inventory in WooCommerce. It controls which actions each user can take and records who did what.
+- **Job Search Agent** ([GitHub](https://github.com/Divansh18/AI-JOB-AGENT)) — I built this to automate my own job search. It pulls listings from multiple job boards, removes duplicates, ranks roles by fit, and tracks my applications.
+- **Spur Agent** ([GitHub](https://github.com/Divansh18/Spur-Agent)) — A Claude-powered customer support app that keeps conversation history. The model integration is separate from the chat logic so I can swap providers without rewriting the app.
+- **ContextIQ** ([GitHub](https://github.com/Divansh18/ContextIQ)) — A document Q&A app that uses Elasticsearch and OpenAI embeddings to find relevant passages and cite them in its answers.
+
+## Where I’ve worked
+
+- **Raptor Supplies** — Built and deployed **Datalyze**, an internal AI assistant that lets the team investigate PostgreSQL data, production logs, and code through permission-scoped MCP tools.
+- **Nebxus** — Shipped frontend and backend features for **Rapid RO**, an automotive repair-order platform. I worked on AI-generated repair narratives, PDF and email exports, and Playwright tests for key workflows.
+
+## Stack
+
+| Area | Tools I use |
 |---|---|
-| **Frontend** | Next.js · React · TypeScript · Tailwind |
-| **Backend** | NestJS · Node.js · REST APIs |
-| **Database** | MySQL · MongoDB |
-| **AI** | Claude API · OpenAI API · LLM Workflows |
-| **Tools** | Git · Docker · Vercel · Railway · Playwright |
+| AI & agents | Claude, OpenAI, MCP, LangChain, LangGraph, Pipecat, Deepgram |
+| Backend | Python, FastAPI, TypeScript, NestJS, Node.js, REST, WebSockets |
+| Frontend | Next.js, React, Tailwind CSS |
+| Data & retrieval | PostgreSQL, MySQL, MongoDB, Elasticsearch |
+| Deployment & testing | Docker, Kubernetes, Linux, Git, Playwright, Logfire |
 
----
-
-📫 divanshgandhi.ca@gmail.com<br>
-💼 https://www.linkedin.com/in/divansh-gandhi/<br>
-🌐 https://www.grepai.dev/
+[LinkedIn](https://www.linkedin.com/in/divansh-gandhi/) · [Email](mailto:divanshgandhi.ca@gmail.com)
