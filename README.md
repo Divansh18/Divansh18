@@ -23,8 +23,6 @@ I built **GrepAI** to help developers spot risky changes before they review a pu
 - **Raptor Supplies** — Built and deployed **Datalyze**, an internal AI assistant that lets the team investigate PostgreSQL data, production logs, and code through permission-scoped MCP tools.
 - **Nebxus** — Shipped frontend and backend features for **Rapid RO**, an automotive repair-order platform. I worked on AI-generated repair narratives, PDF and email exports, and Playwright tests for key workflows.
 
-## Stack
-
 ## Tech stack
 
 | Area | What I use |
